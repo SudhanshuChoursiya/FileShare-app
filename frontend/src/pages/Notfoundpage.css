@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.notfoundpage {
+  height: 100vh;
+  width: 100vw;
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.notfoundpage img {
+  margin: 1rem 0;
+  height: 12rem;
+  width: 12rem;
+}
+
+.notfoundpage p {
+  text-align: center;
+  font-size: 1.6rem;
+  color: black;
+  display: inline-block;
+  margin: 2rem 0.5rem;
+}
+
+.notfoundpage a {
+  margin-top: 0.5rem;
+  display: inline-block;
+  font-size: 1.3rem;
+}
+
+.notfoundpage h1 {
+  font-size: 2.2rem;
+}
+
+.notfoundpage h2 {
+  font-size: 2.2rem;
+}
+
+.goback_button {
+  list-style: none;
+  font-size: 1.5rem;
+  text-decoration: underline;
+  color: blue;
+}

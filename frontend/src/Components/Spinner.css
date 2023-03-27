@@ -1,0 +1,16 @@
+html {
+  font-size: 62.5%;
+}
+
+.spinner-main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.spinner-container img {
+  width: 7rem;
+  height: 7rem;
+}
